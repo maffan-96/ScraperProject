@@ -1,0 +1,11 @@
+psycopg2==2.9.9
+scrapy==2.7.0
+pandas==1.5.1
+Twisted==22.10.0
+flask==3.0.0
+Werkzeug==3.0.1
+cryptography==41.0.5
+six==1.16.0
+python-dateutil==2.8.2
+urllib3==2.0.7
+
